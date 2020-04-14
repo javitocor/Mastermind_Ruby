@@ -127,7 +127,6 @@ class Game < Check
     def start
         $new_selector = Choose.new
         $new_selector.selector
-        puts "#{$randonly2}"
         puts "Let's start the game"
         sleep 1
         puts "You can choose between 6 colors"
