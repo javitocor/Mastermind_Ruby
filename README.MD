@@ -1,18 +1,15 @@
 # Mastermind
-I built a mastermind game on the command line where a human player has to solve the game or two players can play being one the codemaker. 
-It was made in Ruby using OOP concepts.
+I built a mastermind game on the command line. A human player can either solve the game themselves, or two users can play, one as the codemaker and the other as the player.
 
 # What it does
 One player plays Mastermind game
 
 # Built With
-Ruby
-VSCode
+- Ruby
+- VSCode
 
 # Getting Started
-To get a local copy up and running follow these simple example steps.
-
-Clone the project unto your local machine cd to the folder and run "./bin/start.rb" on your terminal
+Clone the project on your local machine, cd to the folder, and then run "./bin/start.rb" on your terminal
 
 # Instructions to Play
 - Select the player name.
@@ -32,7 +29,7 @@ Clone the project unto your local machine cd to the folder and run "./bin/start.
 - Player has 15 tries.
 
 # Prerequisites
-- Get ruby latest version installed
+- Install Ruby's latest version.
 
 # Install
 - Install VSCode or any code editor you like
