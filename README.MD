@@ -43,6 +43,9 @@ Clone the project on your local machine, cd to the folder, and then run "./bin/s
 - Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
 - Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
 
+# Future Features
+- Add AI to the game so it can play itself
+
 # 🤝 Contributing
 Contributions, issues and feature requests are welcome! Start by:
 
