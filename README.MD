@@ -1,6 +1,8 @@
 # Mastermind
 I built a mastermind game on the command line. A human player can either solve the game themselves, or two users can play, one as the codemaker and the other as the player.
 
+![screenshot](/screenshot.PNG)
+
 # What it does
 One player plays Mastermind game
 
