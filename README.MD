@@ -37,6 +37,9 @@ Clone the project on your local machine, cd to the folder, and then run "./bin/s
 - Install VSCode or any code editor you like
 - Install latest version of Ruby
 
+# Run tests
+- Run 'rspec' in the main directory
+
 ## Author
 
 👤 **Javier Oriol Correas Sanchez Cuesta**
