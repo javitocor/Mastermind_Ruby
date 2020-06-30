@@ -10,6 +10,9 @@ One player plays Mastermind game
 - Ruby
 - VSCode
 
+# Live Demo
+You can find it [![Run on Repl.it](https://repl.it/badge/github/javitocor/Mastermind_Ruby)](https://repl.it/github/javitocor/Mastermind_Ruby) :point_left:
+
 # Getting Started
 Clone the project on your local machine, cd to the folder, and then run "./bin/start.rb" on your terminal
 
